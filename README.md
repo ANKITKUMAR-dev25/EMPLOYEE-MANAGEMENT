@@ -62,22 +62,3 @@ mysql-connector-j-9.3.0
 
 ResultSet2xml
 
-📸 Screenshots
-Place images in a screenshots/ folder and reference them here:
-
-Login Page	Dashboard
-
-📁 Project Structure
-pgsql
-Copy
-Edit
-Employee management system/
-│
-├── src/                         # Java source code
-├── out/production/              # Compiled output
-├── lib/                         # External JARs (not committed — see .gitignore)
-├── screenshots/                 # Demo images (optional)
-├── README.md
-├── .gitignore
-├── Employee management system.iml
-└── misc.xml, modules.xml, etc. # IDE config files
