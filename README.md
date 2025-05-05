@@ -1,7 +1,10 @@
 👥 Employee Management System
+
 This Java-based desktop application allows you to manage employee data with features like adding, editing, deleting, and viewing records. It connects to a MySQL database and uses external libraries for enhanced functionality like calendars and XML export.
 
+
 ✅ Features
+
 Add, edit, and delete employee records
 
 Search functionality
@@ -12,13 +15,15 @@ Export results to XML format
 
 Persistent data storage using MySQL
 
+
 🚀 How to Set Up and Run
+
 1. Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/employee-management-system.git
-cd employee-management-system
+git clone ANKITKUMAR-dev25/EMPLOYEE-MANAGEMENT
+
 2. Import into IntelliJ IDEA / Eclipse
 Open as a Java project.
 
