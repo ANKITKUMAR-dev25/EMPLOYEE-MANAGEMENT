@@ -104,15 +104,29 @@ ResultSet2xml
 
 
 
+
+
+📁 Project Structure
+
 Employee management system/
+
 │
+
+
 ├── src/                         # Java source code
+
 ├── out/production/              # Compiled output
+
 ├── lib/                         # External JARs (not committed — see .gitignore)
+
 ├── screenshots/                 # Demo images (optional)
+
 ├── README.md
+
 ├── .gitignore
+
 ├── Employee management system.iml
+
 └── misc.xml, modules.xml, etc. # IDE config files
 
 
