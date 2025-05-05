@@ -16,6 +16,8 @@ Export results to XML format
 Persistent data storage using MySQL
 
 
+
+
 🚀 How to Set Up and Run
 
 1. Clone the Repository
@@ -53,6 +55,9 @@ String user = "your-username";
 String password = "your-password";
 5. Run the Project
 Run the Main class from your IDE. The GUI should open, allowing you to interact with the employee records.
+
+
+
 
 ⚙️ Dependencies
 Java 8 or later
