@@ -1,4 +1,4 @@
-                                                                                    👥 EMPLOYEE MANAGEMENT SYSTEM
+ 👥 EMPLOYEE MANAGEMENT SYSTEM
 
 This Java-based desktop application allows you to manage employee data with features like adding, editing, deleting, and viewing records. It connects to a MySQL database and uses external libraries for enhanced functionality like calendars and XML export.
 
@@ -24,7 +24,7 @@ This Java-based desktop application allows you to manage employee data with feat
        bash
        Copy
        Edit
-       git clone ANKITKUMAR-dev25/EMPLOYEE-MANAGEMENT
+       git clone :- https://github.com/ANKITKUMAR-dev25/EMPLOYEE-MANAGEMENT.git
 
   2. Import into IntelliJ IDEA / Eclipse
        Open as a Java project.
@@ -51,8 +51,8 @@ This Java-based desktop application allows you to manage employee data with feat
     Copy
     Edit
     String url = "jdbc:mysql://localhost:3306/employee_db";
-    String user = "your-username";
-    String password = "your-password";
+    String user = "techcoder";
+    String password = "123456789";
  5. Run the Project
     Run the Main class from your IDE. The GUI should open, allowing you to interact with the employee records.
 
@@ -116,13 +116,13 @@ This Java-based desktop application allows you to manage employee data with feat
   │
 
 
-  ├── src/                         # Java source code
+  ├── src/                            # Java source code
 
-  ├── out/production/              # Compiled output
+  ├── out/production/                # Compiled output
 
-  ├── lib/                         # External JARs (not committed — see .gitignore)
+  ├── lib/                           # External JARs (not committed — see .gitignore)
 
-  ├── screenshots/                 # Demo images (optional)
+  ├── screenshots/                   # Demo images (optional)
 
   ├── README.md
 
