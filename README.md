@@ -72,3 +72,51 @@ mysql-connector-j-9.3.0
 
 ResultSet2xml
 
+
+
+📸 Screenshots
+
+🖥️ Front Page
+
+![Screenshot (957)](https://github.com/user-attachments/assets/7cf24f53-16ce-4c41-aac3-079df12d8724)
+
+
+🔐 Login Page
+
+![Screenshot (958)](https://github.com/user-attachments/assets/1a079a04-7b30-452c-a99b-669093b08808)
+
+📊 Dashboard
+
+![Screenshot (959)](https://github.com/user-attachments/assets/002ba560-0183-4047-9607-b04ed4ab9246)
+
+🧑‍💼 Add Employee
+
+![Screenshot (960)](https://github.com/user-attachments/assets/5c693442-55e2-4e8f-b37a-7d113fa621f5)
+
+✏️ Update Employee
+
+![Screenshot (961)](https://github.com/user-attachments/assets/e3083c4a-66b5-48c6-a286-30344d7e0060)
+
+🗑️ Remove Employee
+
+![Screenshot (963)](https://github.com/user-attachments/assets/56abfef1-fafc-4027-b75d-7abd9451e96b)
+
+
+
+
+Employee management system/
+│
+├── src/                         # Java source code
+├── out/production/              # Compiled output
+├── lib/                         # External JARs (not committed — see .gitignore)
+├── screenshots/                 # Demo images (optional)
+├── README.md
+├── .gitignore
+├── Employee management system.iml
+└── misc.xml, modules.xml, etc. # IDE config files
+
+
+
+
+
+
